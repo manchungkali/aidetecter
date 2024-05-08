@@ -1,6 +1,6 @@
 # aidetecter
 
-<a herf="https://aidetector.click">AI Detector</a>
+<a href="https://aidetector.click">AI Detector</a>
 
 Launched quietly on November 30, 2023, AI Detector (aidetector.click) emerged as a pioneering tool designed to discern AI-generated content with unmatched precision. Originally introduced without much fanfare, we've now embarked on a heartfelt journey to bring this essential technology to the forefront of digital authenticity.
 
