@@ -1,10 +1,10 @@
 # aidetecter
 
-<a href="https://aidetector.click">AI Detector</a>
+<a href="https://aidetector.click">AIDetecter</a>
 
 Launched quietly on November 30, 2023, AI Detector (aidetector.click) emerged as a pioneering tool designed to discern AI-generated content with unmatched precision. Originally introduced without much fanfare, we've now embarked on a heartfelt journey to bring this essential technology to the forefront of digital authenticity.
 
-**Why AI Detector is More Relevant Than Ever**
+**Why AIDetecter is More Relevant Than Ever**
 
 As AI writing tools become increasingly prevalent, the ability to verify the authenticity of content has never been more crucial. AI Detector addresses this need by offering a state-of-the-art solution that ensures the integrity of written materials. Our tool is not just a utility; it's a safeguard for creators, researchers, and professionals who seek to maintain the authenticity of their work in a landscape crowded with AI-generated texts.
 
